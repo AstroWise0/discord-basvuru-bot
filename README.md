@@ -7,7 +7,7 @@
 
 - **_Node.js 20.18.3 Sürümü Dail Diğer Son Sürümlerde de Bot Sorunsuz Çalışmaktadır._**
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1111672215541395526?hideDiscrim=true)](https://discord.com/users/1111672215541395526) 
+<img src="https://cdn.discordapp.com/avatars/1111672215541395526/5576a9fb20b9df3b3044b789752e59cd.webp?size=80" width="80" style="border-radius: 50%; margin-right: 10px;"> 
 
   
  # Kurulum & İçerik 
